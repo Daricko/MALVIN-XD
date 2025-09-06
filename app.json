@@ -8,13 +8,13 @@
     "stack": "container",
   "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
+        "description": "malvin~EmEWgA4K#6DMPd-jj2HP7JJVZcRNDaNnRSgZQB6m_19oMDk9m1BM",
         "value":"",
         "required": true
         
     },
       "BOT_NAME": {
-        "description": "write here your bot name.",
+        "description": "write here your bot Derick.",
         "required": true,
         "value": "ᴍᴀʟᴠɪɴ xᴅ" 
         
@@ -27,7 +27,7 @@
     },
       "MODE": {
         "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
-        "value":"private",
+        "value":"public",
         "required": true  
         
    },
@@ -40,12 +40,12 @@
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "2557501134"
       "required": true
       
    },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "DERICK",
       "value": "",
       "required": true
     }
